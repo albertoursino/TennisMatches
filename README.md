@@ -1,6 +1,5 @@
 <div align="center">
-
-## TennisMatches
+<h1>TennisMatches</h1> 
 
   <a href="https://reactnative.dev/">![react_native](https://img.shields.io/badge/React_Native-0.74.3-a?logo=react&labelColor=%23FFFFFF&color=%2361DAFB
   )</a>
